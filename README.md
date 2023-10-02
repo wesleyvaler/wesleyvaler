@@ -1,6 +1,6 @@
 Desenvolvedor Java
 
-Olá! Meu nome é Wesley, e sou um desenvolvedor Java curioso que está comprometido em aprimorar minhas habilidades e criar soluções de software eficazes. Desde dezembro de 2023, tenho me dedicado ao estudo e aperfeiçoamento na área de desenvolvimento Java, e gostaria de compartilhar um pouco sobre mim e minhas habilidades até o momento.
+Olá! Meu nome é Wesley, e sou um desenvolvedor Java curioso que está comprometido em aprimorar minhas habilidades e criar soluções de software eficazes. Desde dezembro de 2022, tenho me dedicado ao estudo e aperfeiçoamento na área de desenvolvimento Java, e gostaria de compartilhar um pouco sobre mim e minhas habilidades até o momento.
 
 Sobre Mim:
 
