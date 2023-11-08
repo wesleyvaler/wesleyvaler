@@ -1,4 +1,4 @@
-🚀 Desenvolvedor Java Spring Boot, decidi abraçar a jornada do desenvolvimento em dezembro de 2022 e desde então mergulho de cabeça em uma busca constante por conhecimento e desafios reais que possam ser solucionados com programação. Além disso sou um amante do ecossistema Linux e amante da Inteligência Artificial.
+🚀 Desenvolvedor Java Spring Boot, decidi abraçar a jornada do desenvolvimento em dezembro de 2022 e desde então mergulho de cabeça em uma busca constante por conhecimento e desafios reais que possam ser solucionados com programação. Além disso sou um amante do ecossistema Linux e amante da Inteligência Artificial. Estou sempre em busca de solucionar problemas reais, pronto para aprender, colaborar e criar códigos.
 
 - Habilidades e Conhecimentos:
 
@@ -28,6 +28,3 @@ Estou constantemente em busca de aprimorar minhas habilidades e expandir meu con
 - 📧 Email: wesley.ufrb@gmail.com  
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/wesley-valeriano-48426a11b/)
 - 🌐 GitHub: [GitHub](https://www.github.com/wesleyvaler)
-
-- Estou sempre em busca de solucionar problemas reais, pronto para aprender, colaborar e criar códigos.
-
