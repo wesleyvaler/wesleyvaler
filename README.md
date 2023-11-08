@@ -29,5 +29,5 @@ Estou constantemente em busca de aprimorar minhas habilidades e expandir meu con
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/wesley-valeriano-48426a11b/)
 - 🌐 GitHub: [GitHub](https://www.github.com/wesleyvaler)
 
-- Estou sempre em busca de aventuras tecnológicas, pronto para aprender, colaborar e criar códigos.
+- Estou sempre em busca de solucionar problemas reais, pronto para aprender, colaborar e criar códigos.
 
