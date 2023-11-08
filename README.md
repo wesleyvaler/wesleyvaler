@@ -1,6 +1,4 @@
-🚀 Desenvolvedor Java Spring Boot 
-
-🚀 Decidi abraçar a jornad do desenvolvimento em dezembro de 2022 e desde então mergulho de cabeça em uma busca constante por conhecimento e desafios reais que possam ser solucionados com programação. Além disso sou um amante do ecossistema Linux e amante da Inteligência Artificial.
+🚀 Desenvolvedor Java Spring Boot, decidi abraçar a jornada do desenvolvimento em dezembro de 2022 e desde então mergulho de cabeça em uma busca constante por conhecimento e desafios reais que possam ser solucionados com programação. Além disso sou um amante do ecossistema Linux e amante da Inteligência Artificial.
 
   Habilidades e Conhecimentos:
 
