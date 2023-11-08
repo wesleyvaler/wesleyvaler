@@ -9,15 +9,14 @@
 
 Estou constantemente em busca de aprimorar minhas habilidades e expandir meu conhecimento. Meus próximos tópicos de estudo incluem:
 
-- 🧪 Java Unit Testing com Spring Boot 3
-- 🧪 TDD (Test-Driven Development)
-- 🧪 JUnit 5
-- 🧪 Mockito
-- 🧪 RabbitMQ
-- 🧪 Swagger
-- 🧪 Mockito
-- 🧪 Spring Cloud
-- 🧪 Kotlin
+    🧪 Java Unit Testing com Spring Boot 3 
+    🧪 TDD (Test-Driven Development) 
+    🧪 JUnit 5 
+    🧪 Mockito
+    🧪 Swagger 
+    🧪 Spring Cloud
+    🧪 RabbitMQ 
+    🧪 Kotlin
 
 - Educação:
 
