@@ -3,7 +3,8 @@
 - Habilidades e Conhecimentos:
 
 -  Proficiente na leitura em inglês para assimilação eficaz de conhecimento técnico por meio de livros, artigos e documentação.
--  Java: Tenho um sólido domínio da linguagem Java e programação orietada a objetos.
+-  Java
+-  Programação orietada a objetos.
 -  JPA.
 -  RESTful API.
 -  Segurança e JWT.
