@@ -1,4 +1,4 @@
-🚀 Desenvolvedor Java Spring Boot: Embarquei na jornada do desenvolvimento em dezembro de 2022. Desde então, tenho me dedicado intensamente à busca constante por conhecimento, e em busca de desafios que possam ser transformados em soluções através da programação.
+🚀 Desenvolvedor Java Spring Boot: Embarquei na jornada do desenvolvimento em dezembro de 2022. Desde então, tenho me dedicado intensamente à busca constante por conhecimento e em busca de desafios que possam ser transformados em soluções através da programação.
 
 Habilidades e Conhecimentos:
 
