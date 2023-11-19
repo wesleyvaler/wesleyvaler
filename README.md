@@ -28,4 +28,3 @@ Estou constantemente em busca de aprimorar minhas habilidades e expandir meu con
 
 - 📧 Email: wesley.ufrb@gmail.com  
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/wesley-valeriano-48426a11b/)
-- 🌐 GitHub: [GitHub](https://www.github.com/wesleyvaler)
