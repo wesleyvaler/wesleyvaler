@@ -1,27 +1,28 @@
-🚀 Desenvolvedor Java Spring Boot, decidi abraçar a jornada do desenvolvimento em dezembro de 2022 e desde então mergulho de cabeça em uma busca constante por conhecimento e desafios reais que possam ser solucionados com programação. Além disso sou um amante do ecossistema Linux e amante da Inteligência Artificial. 
+🚀 Desenvolvedor Java Spring Boot: Embarquei na jornada do desenvolvimento em dezembro de 2022. Desde então, tenho me dedicado intensamente à busca constante por conhecimento, e em busca de desafios que possam ser transformados em soluções através da programação.
 
-   Habilidades e Conhecimentos:
+Habilidades e Conhecimentos:
 
--  Proficiente na leitura em inglês para assimilação eficaz de conhecimento técnico por meio de livros, artigos e documentação.
--  Java
--  Programação orietada a objetos
--  JPA
--  RESTful API
--  Segurança e JWT
--  Swagger
-
-Em constante busca por aprimoramento, meu foco de estudo atual está na especialização como profissional Spring Boot em Java. Busco não apenas contribuir, mas deixar uma marca significativa em projetos, consolidando assim minha carreira técnica nessa expertise. Meus próximos tópicos de estudo incluem:
-
-    🧪 Testes unitários e integração
-    🧪 JUnit 5 
-    🧪 Mockito
-    🧪 Swagger 
-    🧪 RabbitMQ 
-    🧪 Microserviços em SpringBoot
-    🧪 Kafka
-    🧪 SOLID
-    🧪 Kotlin
+    📚 Proficiente na leitura em inglês para absorção eficaz de conhecimento técnico por meio de livros, artigos e documentação.
+    ☕ Java
+    🎯 Programação orientada a objetos
+    📦 JPA
+    🌐 RESTful API
+    🔐 Segurança e JWT
+    📘 Swagger
+    🤖 Utilizo a Inteligência Artificial como ferramenta na busca por soluções inovadoras. 
     
+Em constante busca por aprimoramento, atualmente me especializo como profissional Spring Boot em Java. Meu objetivo é deixar uma marca significativa em projetos, solidificando minha carreira técnica nessa expertise.
+
+Próximos tópicos de estudo incluem:
+🧪 Testes unitários e integração
+🧪 JUnit 5
+🧪 Mockito
+🧪 Swagger
+🧪 RabbitMQ
+🧪 Microserviços em SpringBoot
+🧪 Kafka
+🧪 SOLID
+🧪 Kotlin
 - Educação:
 
 - 🎓 UFRB - Bacharelando em Ciência Exatas e Tecnológicas
