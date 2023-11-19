@@ -2,22 +2,24 @@
 
 - Habilidades e Conhecimentos:
 
-- ☕ Java: Tenho um sólido domínio da linguagem Java.
-- 🗃️ JPA (Java Persistence API) e MySQL.
-- 🚀 RESTful API.
-- 🔐 Segurança e JWT.
+-  Java: Tenho um sólido domínio da linguagem Java e programação orietada a objetos.
+-  JPA.
+-  RESTful API.
+-  Segurança e JWT.
+-  Swagger
 
 Estou constantemente em busca de aprimorar minhas habilidades e expandir meu conhecimento. Meus próximos tópicos de estudo incluem:
 
-    🧪 Java Unit Testing com Spring Boot 3 
-    🧪 TDD (Test-Driven Development) 
+    🧪 Testes unitários e integração
     🧪 JUnit 5 
     🧪 Mockito
     🧪 Swagger 
-    🧪 Spring Cloud
     🧪 RabbitMQ 
+    🧪 Microserviços em SpringBoot
+    🧪 Kafka
+    🧪 SOLID
     🧪 Kotlin
-
+    
 - Educação:
 
 - 🎓 UFRB - Bacharelando em Ciência Exatas e Tecnológicas
