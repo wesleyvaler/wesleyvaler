@@ -4,13 +4,13 @@
 
 -  Proficiente na leitura em inglês para assimilação eficaz de conhecimento técnico por meio de livros, artigos e documentação.
 -  Java
--  Programação orietada a objetos.
--  JPA.
--  RESTful API.
--  Segurança e JWT.
+-  Programação orietada a objetos
+-  JPA
+-  RESTful API
+-  Segurança e JWT
 -  Swagger
 
-Estou constantemente em busca de aprimorar minhas habilidades e expandir meu conhecimento. Meus próximos tópicos de estudo incluem:
+Em constante busca por aprimoramento, meu foco de estudo atual está na especialização como profissional Spring Boot em Java. Busco não apenas contribuir, mas deixar uma marca significativa em projetos, consolidando assim minha carreira técnica nessa expertise. Meus próximos tópicos de estudo incluem:
 
     🧪 Testes unitários e integração
     🧪 JUnit 5 
