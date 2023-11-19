@@ -2,14 +2,15 @@
 
 Habilidades e Conhecimentos:
 
-    📚 Proficiente na leitura em inglês para absorção eficaz de conhecimento técnico por meio de livros, artigos e documentação.
+    📚 Proficiente na leitura em inglês para absorção eficaz de conhecimento técnico por meio de livros, artigos e documentação
+    🤖 Utilizo a Inteligência Artificial como ferramenta na busca por soluções inovadoras
     ☕ Java
     🎯 Programação orientada a objetos
     📦 JPA
     🌐 RESTful API
     🔐 Segurança e JWT
     📘 Swagger
-    🤖 Utilizo a Inteligência Artificial como ferramenta na busca por soluções inovadoras. 
+
     
 Em constante busca por aprimoramento, atualmente me especializo como profissional Spring Boot em Java. Meu objetivo é deixar uma marca significativa em projetos, solidificando minha carreira técnica nessa expertise.
 
